@@ -6,14 +6,14 @@ const textoResultado=document.querySelector(".texto-resultado");
 
 const perguntas = [
 {
-    enunciado: "o assunto de hoje e sobre o uso de agrotoxicos na lavoura",
+    enunciado: "para voce nas suas horas vagas prefere ",
     alternativas:[
         {
-        texto:"isso é assustador",
+        texto:"praticar esportes",
         afirmacao:"afirmação"
         },
         {
-       texto:"isso é maravilhoso",
+       texto:"jogar jogos online",
        afirmacao:"afirmação"
         }
 
@@ -22,13 +22,13 @@ const perguntas = [
 
 {
     
-        enunciado: "Com a descoberta desta tecnologia, aumentou a produtiviade no campo",
+        enunciado: "esportes x jogos ",
         alternativas:[{
-            texto:"Utiliza quimicos que podem ser prejudiciais a saude.",
+            texto:"a pratica de esportes pode ser benefica a saude.",
             afirmacao:"afirmação"
         },
         {        
-           texto:"mas acaba facilitando o trabalho no campo.",
+           texto:"jogos onlines podem nao ser muito bons a saude e a sosializacao.",
            afirmacao:"afirmação"
         }        
         ]
@@ -37,14 +37,14 @@ const perguntas = [
 
     {
     
-        enunciado: "Após a elaboração do trabalho, em maquinas e a autonomacao no campo mudou varias coisas?",
+        enunciado: "mas nen todos os esportes podem ser sempre beneficos, como tambem nem todos os jogos podem ser maleficos?",
         alternativas:[
             {
-            texto:"Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
+            texto:"pois a pratica pode melhorar o desempenho, mas tem o risco de lesoes.",
             afirmacao:"afirmação"
             },
             {
-            texto:"Me preocupo com as pessoas que perderão seus empregos para máquinas e defendo a importância de proteger os trabalhadores.",
+            texto:"existem diversos maleficios, mas posuem jogos que ajudam a melhorar o raciocinio.",
             afirmacao:"afirmação"
             }
         ]
@@ -52,7 +52,7 @@ const perguntas = [
     
     {
     
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
+        enunciado: "mas afinal qual vc prefere?",
         alternativas:[
             {
             texto:"Criar uma imagem utilizando uma plataforma de design como o Paint.",
