@@ -1,6 +1,6 @@
 :root{
     --cor-fundo:#145d9c;
-    --cor-principal:#145d9c;
+    --cor-principal:#8394a3;
     --cor-secundaria:#1128da;
     --cor-destaque:#0b1314;
     --cor-texto:#D7F9FF;
@@ -17,9 +17,9 @@
     
     .caixa-principal{
     background-color: var(--cor-principal);
-    width: 90%;
+    width: 60%;
     text-align: center;
-    padding: 20px;
+    padding: 180px;
     }
     
     h1{
@@ -38,4 +38,9 @@
         background-color: var(--cor-destaque);
         color: var(--cor-principal);
         transition: background-color 0,3s;
+    }
+
+    .const-perguntas{
+        width: 60%;
+
     }
