@@ -52,14 +52,14 @@ const perguntas = [
     
     {
     
-        enunciado: "mas afinal qual vc prefere?",
+        enunciado: "tambem voce prefere em questao a esses temas ?",
         alternativas:[
             {
-            texto:"Criar uma imagem utilizando uma plataforma de design como o Paint.",
+            texto:"praticar com os com os amigos.",
             afirmacao:"afirmação"
         },
         {
-            texto:"Criar uma imagem utilizando um gerador de imagem de IA.",
+            texto:"jogar com os amigos.",
             afirmacao:"afirmação"
         }
         ]
@@ -67,14 +67,14 @@ const perguntas = [
 
     {
     
-        enunciado: "Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda de uma IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz?",
+        enunciado: "mas qual deses temas mais reunen os amigos?",
         alternativas:[
             {
-            texto:"Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
+            texto:"os esportes praticados com mais pessoas ou um grupo pode ser muito bom,alem da troca e esperiencias.",
             afirmacao:"afirmação"
             },
         {
-            texto:"O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
+            texto:"jogar com os amigos tambem e uma pratica de lazer, ainda se for um jogo de raciocinio logico.",
             afirmacao:"afirmação"
         }
         ]
